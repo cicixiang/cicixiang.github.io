@@ -1,10 +1,10 @@
-
+""
 
 /* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
-*/
+*/""
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -72,5 +72,21 @@ table {
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+
+<style>
+  li {
+    list-style:none;
+    float:left;
+    margin:10px;
+    padding:7px 14px;
+    text-transform:uppercase;
+    font-family:Gill sans;
+  }
+
+
+</style>
+
+
+
 
 
