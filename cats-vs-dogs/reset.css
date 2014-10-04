@@ -13,10 +13,16 @@
 	  margin:30px;
 	  padding:40px;
      }
-  h1{
+dog{
 	  float:left;
+	  width:300px;
       margin:30px;
      }
+cat{
+	 	  float:left;
+	 	  width:300px;
+	       margin:30px;
+	      }
 </style>
 
 
