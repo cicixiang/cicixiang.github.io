@@ -15,12 +15,11 @@
      }
 dog{
 	  float:left;
-	  width:300px;
+	
       margin:30px;
      }
 cat{
 	 	  float:left;
-	 	  width:300px;
 	       margin:30px;
 	      }
 </style>
