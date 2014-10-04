@@ -6,16 +6,17 @@
 	      margin:30px;
 	      padding:30x 50px;
 	      text-transform:uppercase;
-  }
+     }
 
   img{
 	  float:left;
 	  margin:30px;
 	  padding:40px;
-  }
-  section{
+     }
+  h1{
 	  float:left;
-  }
+      margin:30px;
+     }
 </style>
 
 
