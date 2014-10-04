@@ -1,12 +1,14 @@
 
 <style>
   li {
-    list-style:none;
-    float:left;
-    margin:10px;
-    padding:7px 20px;
-    text-transform:uppercase;
-    font-family:Gill sans;
+	  list-style:none;
+	      float:left;
+	      margin:10px;
+	      background-color:teal;
+	      padding:7px 14px;
+	      color:white;
+	      text-transform:uppercase;
+	      font-family:Helvetica;
   }
 
   img{
