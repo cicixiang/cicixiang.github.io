@@ -10,15 +10,13 @@
 
   img{
 	  float:left;
-	  margin:10px;
-	  padding:10px;
+	  margin:30px;
+	  padding:40px;
      }
-dog{
+h1{
 	  float:left;
+      margin:30px;
      }
-cat{
-	 	  float:left;
-	      }
 </style>
 
 
