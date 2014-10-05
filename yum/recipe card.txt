@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link href="stylet.css" rel="Stylesheet" type="text/css" />
+		<link href="style.css" rel="Stylesheet" type="text/css" />
 		<title> recipe card 
 		</title>
 	</head>
