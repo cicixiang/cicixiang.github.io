@@ -51,11 +51,11 @@ table {
 
 
 header{display:inline-block;
-	margin:30px 100px;
+	margin:30px 50px;
 	
 }
-  li {display:inline-block;
-	  list-style:none;
+  li { 
+	      list-style:none;
 	      float:left;
 	      margin:30px 300px;
 	      padding:30x 50px;
