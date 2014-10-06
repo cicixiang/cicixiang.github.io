@@ -62,15 +62,13 @@ header{
 	      text-transform:uppercase;
      }
 
-  img{clear:left;
+  section
+  {clear:left;
 	  float:left;
 	  width:50%;
 	  padding:40px;
      }
-h1{
-	  float:left;
-      margin:30px;
-     }
+
 	 
 	 #site-footer{
 		 clear:both;
