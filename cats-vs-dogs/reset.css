@@ -51,13 +51,13 @@ table {
 
 
 header{display:inline-block;
-	margin:10px 100px;
+	margin:30px 100px;
 	
 }
   li {display:inline-block;
 	  list-style:none;
 	      float:left;
-	      margin:30px;
+	      margin:30px 300px;
 	      padding:30x 50px;
 	      text-transform:uppercase;
      }
