@@ -50,10 +50,7 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 
-header{display:inline-block;
-	margin:30px 50px;
-	
-}
+header{margin:30px 50px;}
   li { 
 	      list-style:none;
 	      float:left;
