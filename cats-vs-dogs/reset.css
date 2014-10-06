@@ -50,11 +50,11 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 
-header{
+header{display:inline-block;
 	margin:10px 100px;
 	
 }
-  li {
+  li {display:inline-block;
 	  list-style:none;
 	      float:left;
 	      margin:30px;
@@ -81,7 +81,8 @@ header{
 	 #site-footer{
 		 clear:both;
 	 }
-
+h1{text-weight:bold;
+	text-size:150%;}
 
 
 
