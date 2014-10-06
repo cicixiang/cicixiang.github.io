@@ -80,6 +80,10 @@ header{margin:30px 50px;}
 	 }
 h1{text-weight:bold;
 	text-size:150%;}
+body {
+	  margin:0 auto;
+	  width:960px;
+	}
 
 
 
