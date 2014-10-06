@@ -55,6 +55,7 @@ header{
 	
 }
   li {
+	  clear:both;
 	  list-style:none;
 	      float:left;
 	      margin:30px;
