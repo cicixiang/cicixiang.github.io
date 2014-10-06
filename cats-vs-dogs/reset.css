@@ -62,7 +62,7 @@ header{
 	      text-transform:uppercase;
      }
 
-  section
+	 #cats
   {
 	  float:left;
 	  width:50%;
@@ -70,6 +70,13 @@ header{
 	  margin:100px;
      }
 
+	 #dogs
+  {
+	  float:left;
+	  width:50%;
+	  padding:40px;
+	  margin:100px;
+     }
 	 
 	 #site-footer{
 		 clear:both;
