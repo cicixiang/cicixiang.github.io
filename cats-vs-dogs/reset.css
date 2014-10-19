@@ -52,6 +52,7 @@ table {
 
 header{margin:40px 50px 20px 80px;text-align:center;}
 header img{display:inline-block;}
+
 nav{
 	border-top:3px solid black;border-bottom:3px solid black;height:50px;
 }
@@ -88,17 +89,42 @@ nav{
 	  font-height:35px;
 	
      }
-	 
-	 #site-footer{
-		 clear:both;
-	 }
-h1{text-weight:bold;
-	text-size:150%;}
+
+h1{font-weight:bold;
+   font-size:30px;
+    font-family:serif;
+	font-height:50px;}
 body {
 	  margin:0 auto;
 	  width:960px;
 	  text-family:serif;
 	}
 
+img{
+		padding:0px 10px 20px 5px;
+	}
+section{
+		border-top:0px solid black;border-bottom:3px solid black;height:450px;
+}
+	 
+
+ #site-footer{
+	  clear:both;
+   	  float:left;
+   	  width:50%;
+   	  padding:20px;
+   	  font-family: serif;
+   	  font-size:15px;
+   	  font-height:35px;
+	 }
+#site-footer2
+	 {
+	  float:left;
+   	  width:50%;
+   	  padding:20px;
+   	  font-family: serif;
+   	  font-size:15px;
+   	  font-height:35px;
+  }
 
 

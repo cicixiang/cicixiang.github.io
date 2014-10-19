@@ -52,4 +52,23 @@ table {
 
 /* -----------------END RESET---------------- */
 
+article
+{
+  float:left;
+  width:40%;
+  padding:20px 20px 30px 100px;
+  font-family: sans-serif;
+  font-size:17px;
+  font-height:35px;
+  
+}
+
+img{
+	float:left;
+	margin:10px 20px 25px 0px;
+}
+h1{font-size:25px;font-weight:bold;margin-top:20px;margin-bottom:5px;}
+h2{font-size:13px;color:gray;margin-bottom:15px;}
+p{font-size:13px;font-height:30px;font-weight:normal;}
+
 
