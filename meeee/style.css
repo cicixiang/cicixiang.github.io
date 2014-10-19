@@ -48,3 +48,39 @@ table {
 }
 
 /* END OF RESET - Start of Your CSS*/
+
+body{
+	margin:0 auto;
+	width:450px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+h1{font-size: 50px;
+   text-transform:uppercase;
+   padding:10px;
+   margin:40px 10px;
+   color:#FF3399;
+   font-family:Verdana, Geneva, sans-serif;
+}
+div{font-size: 30px;
+   text-transform:uppercase;
+   padding:10px;
+   margin:10px 10px;
+   color:#6666FF;
+   font-family:Verdana, Geneva, sans-serif;
+	
+}
+
+h3{font-size: 25px;
+   padding:5px;
+   margin:10px 10px;
+   color:#6666FF;
+   font-family:Verdana, Geneva, sans-serif;
+	
+}
+
+p{font-size: 15px;
+   padding:5px;
+   margin:0px 50px;
+   color:black;
+   font-family:Verdana, Geneva, sans-serif;
+	
