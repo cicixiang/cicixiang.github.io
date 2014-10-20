@@ -50,3 +50,58 @@ table {
 	border-spacing: 0;
 }
 
+
+
+
+
+body{
+	width:100%;
+}
+
+#site-header{
+	background-color:tan;
+	width:500px;
+	margin:0 auto;
+}
+header{margin:40px 50px 20px 80px;}
+header img{display:inline-block;}
+
+#site-wrapper{
+	background-color: tan;
+	
+}
+
+#menu-wrapper{
+	background-color:brown;
+	height:50px;
+}
+
+#main-menu
+li  a{        font-family:sans-serif;
+		  	  font-weight:bold;
+			  color:red;
+		  	  font-size:13px;
+		      text-decoration:none;
+		      float:left;
+		      margin-left:20px;
+			  text-transform:uppercase;
+			  margin:0 auto;
+
+
+	     }
+ul{margin-left:300px;}
+#top-nav{
+	position:absolute;
+	top:2px;
+	left:800px;
+	font-color:brown;
+	font-size:10px;
+	text-decoration:none;
+		 }
+
+article{
+	float:left;
+	width:400px;
+	
+}
+	

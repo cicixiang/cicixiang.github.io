@@ -56,6 +56,7 @@ header{
 	top:50px;
 	right:700px;
 	width:200px;
+	border-bottom:1px solid black;
 }
 h1 {font-size:14px;font-weight: bold;font-family:sans-serif:"Calibri";}
 h2 {font-size:12px;font-weight: bold;font-family:sans-serif:"Calibri";}
@@ -71,7 +72,9 @@ nav{position:relative;
 p {
 	font-family:serif;
 }
-
+b {
+	font-weight:bold;
+}
 #process{
 		position:relative;
 		top:150px;
