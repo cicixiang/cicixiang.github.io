@@ -56,17 +56,22 @@ header img{display:inline-block;}
 nav{
 	border-top:3px solid black;border-bottom:3px solid black;height:50px;
 }
-  li a {  font-family:serif;
-	  	  font-weight:bold;
-		  font-color:black;
-	  	  font-size:30px;
-	      text-decoration:none;
+  li  {  
 	      float:left;
-	      margin:10px 30px 50px 40px;
+	      margin:10px 20px 50px 15px;
 		  display:inline-block;
 	      text-transform:uppercase;
      }
-
+	 a { text-decoration:none;
+		 font-family:serif;
+		 font-weight:bold;
+		 font-color:black;
+		 font-size:30px;
+	 }
+	 .bullet{
+		 padding-top:10px;
+		 
+	 }
 	 #cats
   {
 	  float:left;
