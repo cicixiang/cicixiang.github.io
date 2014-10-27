@@ -63,7 +63,7 @@ nav{
 	      text-decoration:none;
 	      float:left;
 	      margin:10px 30px 50px 40px;
-	 
+		  display:inline-block;
 	      text-transform:uppercase;
      }
 
@@ -131,5 +131,6 @@ section{
    	  font-size:15px;
 	  text-align: right;
   }
+
 
 
