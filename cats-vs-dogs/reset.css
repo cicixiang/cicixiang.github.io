@@ -143,6 +143,8 @@ section{
       h1{font-size:1.475em;}
       #site-footer{display:none;}
 	  #site-footer2{display:none;}
+	  #cats{float:none;}
+	  #dogs{float:none;}
     }
     @media screen and (max-width:600px){
        a{font-size:1.7em;}
@@ -150,6 +152,7 @@ section{
        h1{font-size:1.7em;}
        #site-footer{display:none;}
  	  #site-footer2{display:none;}
+  }
 
 
 
