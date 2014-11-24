@@ -55,38 +55,43 @@ body{
 	width:100%;
 }
 
-#site-wrapper{
+#site-header{
 	position: fixed;
 	top: 0px;
 	background-color: #D5D7D7;
 	width: 100%;
-	height: 50px;
+	height: 50px;}
+#site-wrapper{height:100px;}
 
 #content-wrapper{
 	background-color:#333333;
-	
+	width: 100%;
 }
 #main-menu{margin-left:30px;}
 #main-menu li  a{        
 			  font-family:sans-serif;
 		  	  font-weight:bold;
-			  color:gray;
+			  color:black;
 		  	  font-size:16px;
 		      text-decoration:none;
 		      float:right;
 		      margin-right:500px;
 			  padding:2px 20px;
 			  margin:0 auto;
+		  }
 			  
 			  
 #logo{width:10px;height:10px;position:absolute}
 
-.work{width:70px;height:40px;margin-left:-200px;position:absolute;}
+#content-wrapper img {margin-top:100px;
+	max-width:800px;}
 
 #pic a {font-family:sans-serif;
 			  color:white;
 		  	  font-size:16px;
 		      text-decoration:none;
 			}
-
+nav{position: fixed;
+	width:100%;
+	}
 

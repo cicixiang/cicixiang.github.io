@@ -58,24 +58,32 @@ html {
   background-size: cover;
 }
 
-.text {font-weight:normal;
-   font-size:3em;
-   font-family: 'juralight';
-   float:left;
-   margin-top:60em;
-   margin-left:20em; }
+
+
+p a {font-size:1.5em;
+   font-family: 'quicksandlight';
+   color:white;
+   text-decoration:none;
+   line-height:1.4em;
+	}
+   
+p { margin-top:35em;
+   margin-left:2.5em; }
+
+
+  
 
 
    
 
    @font-face {
-       font-family: 'juralight';
-       src: url('jura-light-webfont.eot');
-       src: url('jura-light-webfont.eot?#iefix') format('embedded-opentype'),
-            url('jura-light-webfont.woff2') format('woff2'),
-            url('jura-light-webfont.woff') format('woff'),
-            url('jura-light-webfont.ttf') format('truetype'),
-            url('jura-light-webfont.svg#juralight') format('svg');
+       font-family: 'quicksandlight';
+       src: url('quicksand-light-webfont.eot');
+       src: url('quicksand-light-webfont.eot?#iefix') format('embedded-opentype'),
+            url('quicksand-light-webfont.woff2') format('woff2'),
+            url('quicksand-light-webfont.woff') format('woff'),
+            url('quicksand-light-webfont.ttf') format('truetype'),
+            url('quicksand-light-webfont.svg#quicksandlight') format('svg');
        font-weight: normal;
        font-style: normal;
 
