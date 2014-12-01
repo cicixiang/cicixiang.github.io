@@ -2,6 +2,25 @@
 <head>
 	<title>Cici's Portfolio</title>
 	  <link rel="stylesheet" href="final.css" type="text/css" media="screen" />
+    
+	<!-- We include jquery -->
+    <script src='src/jquery.min.js'></script>
+    <!-- We include the plugin -->
+    <script src='src/jquery.cycle.all.js'></script>
+
+	<script>
+      $(document).ready(function() {
+        $('#slideshow').cycle({
+          //next: "#slideshow",
+          //speed: 5000,
+          //timeout: 200,
+          //random: 1,
+          fx: 'fade' 
+          // transition types, ex: fade, scrollUp, shuffle, etc...
+        });
+      });     </script>
+	  
+
 </head>
 <body>
 	<div id='site-wrapper'>
@@ -18,7 +37,7 @@
 	    <li>
 	  	  <a href='Resume.html'>Resume</a></li>
 	    <li>
-	      <a href='Contact.html'>Contact</a></li>
+	      <a href='Contact.html' >Contact</a></li>
 	  </ul>
 	</nav>
 	</header>
@@ -27,6 +46,14 @@
 
 	
 <div id="content-wrapper">
+<div id="slideshow">
+     <img src="images/slide/1.jpg"alt="slide1">
+     <img src="images/slide/2.jpg"alt="slide2">
+     <img src="images/slide/3.jpg"alt="slide3">
+     <img src="images/slide/4.jpg"alt="slide4">
+     <img src="images/slide/5.jpg"alt="slide5">
+</div>
+	
 <nav id='pic'>
       <a href='Hierarchy.html'alt="1">Hierarchy Plates</a> 
 	  <a href='Lemon.html'alt="2">Secret of Lemon</a>
@@ -37,7 +64,15 @@
 	  
 	
     </nav>
-	<img src='images/main-page.png' id='work'>
+	<img src='images/main-page.jpg' id='work'>
 </div> <!-- end #content-wrapper -->
 </body>
 </html>
+
+
+
+
+
+
+
+	 

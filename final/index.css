@@ -60,14 +60,14 @@ html {
 
 
 
-p a {font-size:1.5em;
-   font-family: 'quicksandlight';
+p a {font-size:2em;
+   font-family: 'Lato', sans-serif;
    color:white;
    text-decoration:none;
-   line-height:1.4em;
+   line-height:1.3em;
 	}
    
-p { margin-top:35em;
+p { margin-top:33em;
    margin-left:2.5em; }
 
 
@@ -76,15 +76,4 @@ p { margin-top:35em;
 
    
 
-   @font-face {
-       font-family: 'quicksandlight';
-       src: url('quicksand-light-webfont.eot');
-       src: url('quicksand-light-webfont.eot?#iefix') format('embedded-opentype'),
-            url('quicksand-light-webfont.woff2') format('woff2'),
-            url('quicksand-light-webfont.woff') format('woff'),
-            url('quicksand-light-webfont.ttf') format('truetype'),
-            url('quicksand-light-webfont.svg#quicksandlight') format('svg');
-       font-weight: normal;
-       font-style: normal;
-
-   }
+  
