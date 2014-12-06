@@ -55,7 +55,210 @@ body{
 	width:100%;
 }
 
-#site-wrapper{height:100px;}
+/************traintable***********/
+#t1{width:70%;position:static;float:right;margin-right:40px;}
+#t2{width:70%;position:static;float:right;margin-top:200px;margin-right:175px;}
+#t3{width:70%;position:static;float:right;margin-top:200px;margin-right:175px;}
+#t4{width:70%;position:static;float:right;margin-top:200px;margin-right:175px;}
+#t5{width:70%;position:static;float:right;margin-top:200px;margin-right:175px;}
+
+
+
+#tablemainwrapper{background-color:#333333;
+	width: 100%;
+	height:5000px;
+	z-index:100;
+}
+#tablecontent-wrapper{background-color:#333333;
+	width: 100%;
+	height:150px;
+	z-index:100;}
+
+#about{   font-size:1.3em;
+		   font-family: 'Lato', sans-serif;
+		   color:white;
+		   text-decoration:none;
+		   line-height:2em 
+	   }
+#workdes{padding-left:20px;padding-top:30px;width:300px;}
+#content{font-size:1em;
+		   font-family: 'Lato',serif;
+		   color:white;
+		   text-decoration:none;
+		   line-height:1.3em }
+		   
+		   #u1{width:80%;position:static;float:right;margin-right:40px;}
+		   #u2{width:30%;position:static;float:right;margin-top:200px;margin-right:700px;}
+		   #u3{width:30%;position:static;float:right;margin-top:200px;margin-right:700px;}
+		   #u4{width:30%;position:static;float:right;margin-top:200px;margin-right:700px;}
+		   #u5{width:30%;position:static;float:right;margin-top:200px;margin-right:700px;}
+		   
+		   
+		   
+/************Unity***********/		   
+#uabout{          font-size:1.3em;
+		   		   font-family: 'Lato', sans-serif;
+		   		   color:white;
+		   		   text-decoration:none;
+		   		   line-height:2em 
+		   	   }
+#uworkdes{padding-left:20px;padding-top:30px;width:300px;}
+#ucontent{font-size:1em;
+		   		   font-family: 'Lato',serif;
+		   		   color:white;
+		   		   text-decoration:none;
+		   		   line-height:1.3em }
+				   
+				   
+/************Book***********/				   
+
+				   #b1{width:60%;position:static;float:right;margin-right:40px;}
+				   #b2{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+				   #b3{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+				   #b4{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+				   #b5{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+				   #b6{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+				   #b7{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+		   
+		#babout{          font-size:1.3em;
+				   		   font-family: 'Lato', sans-serif;
+				   		   color:white;
+				   		   text-decoration:none;
+				   		   line-height:2em 
+				   	   }
+		#bworkdes{padding-left:20px;padding-top:30px;width:300px;}
+		#bcontent{font-size:1em;
+				   		   font-family: 'Lato',serif;
+				   		   color:white;
+				   		   text-decoration:none;
+				   		   line-height:1.3em }
+		#bablemainwrapper{background-color:#333333;
+						   	width: 100%;
+						   	height:6000px;
+						   	z-index:100;
+						   }
+		#bablecontent-wrapper{background-color:#333333;
+						   	width: 100%;
+						   	height:150px;
+						   	z-index:100;}
+
+
+/************Lemon***********/
+		 			#l1{width:75%;position:static;float:right;margin-right:70px;}
+		 			#l2{width:75%;position:static;float:right;margin-top:200px;margin-right:120px;}
+		 			
+		   
+		 		#labout{          font-size:1.3em;
+		 				   		   font-family: 'Lato', sans-serif;
+		 				   		   color:white;
+		 				   		   text-decoration:none;
+		 				   		   line-height:2em 
+		 				   	   }
+		 		#lworkdes{padding-left:20px;padding-top:30px;width:300px;}
+		 		#lcontent{font-size:1em;
+		 				   		   font-family: 'Lato',serif;
+		 				   		   color:white;
+		 				   		   text-decoration:none;
+		 				   		   line-height:1.3em }
+		 		#ltablemainwrapper{background-color:#333333;
+		 						   	width: 100%;
+		 						   	height:2000px;
+		 						   	z-index:100;
+		 						   }
+		 		#ltablecontent-wrapper{background-color:#333333;
+		 						   	width: 100%;
+		 						   	height:150px;
+		 						   	z-index:100;}
+
+/************beauty***********/
+			#be1{width:75%;position:static;float:right;margin-right:60px;}
+
+		 			
+		   
+						 		#beabout{          font-size:1.3em;
+						 				   		   font-family: 'Lato', sans-serif;
+						 				   		   color:white;
+						 				   		   text-decoration:none;
+						 				   		   line-height:2em 
+						 				   	   }
+						 		#beworkdes{padding-left:20px;padding-top:30px;width:280px;}
+						 		#becontent{font-size:1em;
+						 				   		   font-family: 'Lato',serif;
+						 				   		   color:white;
+						 				   		   text-decoration:none;
+						 				   		   line-height:1.3em }
+						 		#betablemainwrapper{background-color:#333333;
+						 						   	width: 100%;
+						 						   	height:1200px;
+						 						   	z-index:100;
+						 						   }
+						 		#betablecontent-wrapper{background-color:#333333;
+						 						   	width: 100%;
+						 						   	height:150px;
+						 						   	z-index:100;}
+/************heriarchy***********/
+
+					#h1{width:60%;position:static;float:right;margin-right:60px;}
+				    #h2{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+					#h3{width:60%;position:static;float:right;margin-top:200px;margin-right:260px;}
+					
+	#habout{          font-size:1.3em;
+								 				   		   font-family: 'Lato', sans-serif;
+								 				   		   color:white;
+								 				   		   text-decoration:none;
+								 				   		   line-height:2em 
+								 				   	   }
+	#hworkdes{padding-left:20px;padding-top:30px;width:300px;}
+	#hcontent{font-size:1em;
+								 				   		   font-family: 'Lato',serif;
+								 				   		   color:white;
+								 				   		   text-decoration:none;
+								 				   		   line-height:1.3em }
+	#htablemainwrapper{background-color:#333333;
+								 						   	width: 100%;
+								 						   	height:2050px;
+								 						   	z-index:100;
+								 						   }
+	#htablecontent-wrapper{background-color:#333333;
+								 						   	width: 100%;
+								 						   	height:150px;
+								 						   	z-index:100;}
+															
+															
+															
+															
+																				
+
+
+
+
+/************contact page***********/
+
+#contacttablemainwrapper{background-color:#333333;
+								 						   	width: 100%;
+								 						   	height:700px;
+								 						   	z-index:100;
+								 						   }
+
+
+
+#contactworkdes{padding-left:200px;padding-top:100px;width:300px;}
+
+#contacth{color:yellow;font-family: 'Lato',serif; padding-bottom:10px;}
+
+#contactp{ font-family: 'Lato',serif;
+								 				   		   color:white;
+								 				   		  
+								 				   		   line-height:1.3em }}
+
+
+
+
+
+
+
+
+#site-wrapper{height:50px; z-index:1;width:100%;}
 #site-header{
 	position: fixed;
 	top: 0px;
@@ -67,9 +270,10 @@ body{
 #content-wrapper{
 	background-color:#333333;
 	width: 100%;
-	height:1000px;
+	height:1030px;
+	z-index:100;
 }
-#main-menu{margin-left:30px;}
+
 #main-menu li  a{        
 			  font-family:sans-serif;
 		  	  font-weight:bold;
@@ -81,12 +285,13 @@ body{
 			  padding:35px 30px;
 			  margin:0 auto;
 		  }
-			  
+#mainwrapper .box img {
+	max-width:100%;
+}			  
 			  
 #logo{width:10px;position:absolute}
 
-#content-wrapper img {margin-top:100px;
-	max-width:800px;}
+
 
 #pic a {font-family:sans-serif;
 			  color:white;
@@ -108,15 +313,13 @@ body{
 		  margin: 80px auto 0 auto;  
 		  text-align: center;  
 		  width: 660px; 
-
-		   
-		}  
+	  	   }  
 		
 		
 		#mainwrapper .box {  
 		    border: 5px solid #fff;  
 		    cursor: pointer;  
-		    height: 182px;  
+		    height: 200px;  
 		    float: left;  
 		    margin: 5px;  
 		    position: relative;  
@@ -155,7 +358,7 @@ body{
 		    height: 30px;  
 		    width: 200px;  
 		    display: block;  
-		    bottombottom: -30px;  
+		    bottom: -30px;  
 		    line-height: 25pt;  
 		    text-align: center;  
 		}  
@@ -173,7 +376,7 @@ body{
 		    text-align: left;  
 		    padding: 15px;  
 		}  
-		** Caption 4: Slide **/  
+		/** Caption 4: Slide **/  
 		#mainwrapper .box .slide-caption {  
 		    width: 170px;  
 		    height: 170px;  
@@ -267,7 +470,36 @@ body{
 			
 			
 		} 	
+		p  {font-size:1em;
+		   font-family:serif;
+		   color:black;
+		   text-decoration:none;
+		   line-height:1.1em;
+			}
+		h1	{font-size:1.3em;
+		   font-family: 'Lato', sans-serif;
+		   color:rgb(32,79,158);
+		   text-decoration:none;
+		   line-height:2em 
+		   
+	   		}
+   		h2 {font-size:1em;
+   		   font-family: 'Lato', sans-serif;
+		   text-weight:700;
+   		   color:black;
+   		   text-decoration:none;
+   		   line-height:1.8em;
+	   		}
+		#education{margin-top:50px;}
+		article{display:inline-block;margin-left:200px;margin-top:30px;width:800px;}
 		
+		
+		h3{text-decoration:none; color:white;}
+		
+		ul li a{font-size:1em;
+		   font-family: 'Lato', sans-serif;
+		   color:rgb(32,79,158);
+		   text-decoration:none;}
 		
 		
 		.rslides {
@@ -275,8 +507,9 @@ body{
 		  list-style: none;
 		  overflow: hidden;
 		  width: 100%;
+		  height:25%;
 		  padding: 0;
-		  margin: 0;
+		  margin-top:50px;;
 		  }
 
 		.rslides li {
