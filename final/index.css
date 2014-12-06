@@ -63,13 +63,21 @@ html {
 p a {font-size:2em;
    font-family: 'Lato', sans-serif;
    color:white;
-   font-weight:700;
+   font-weight:3;
    text-decoration:none;
    line-height:1.3em;
 	}
    
-p { margin-top:33em;
+p { margin-top:30em;
    margin-left:2.5em; }
+
+h1{font-size:2em;
+   font-family: 'Lato', sans-serif;
+   color:white;
+   font-weight:3;
+   text-decoration:none;
+   line-height:1.3em;
+   margin-top:3em;}
 
 
   
